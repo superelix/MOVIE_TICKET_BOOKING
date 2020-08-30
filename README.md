@@ -54,5 +54,5 @@
 - Tested every endpoint both in terminal as well as postmann.
 - Basic front end html forms prioritises  input from customer.
 - Images shows testing of all asked end points.
-- Spetial Mention
+- Special Mention
     * maximum limit of 20 people at a given time is handled during insert operation.If exceeds then insertion is prohibited.
