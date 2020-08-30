@@ -41,7 +41,7 @@
 ## DESCRIPTION FOR THE FILE SYSTEM.
 * input.html: A basic html form to take info of customer and insert it in the table.
 * update.html is an end point which enables the admin to get query for update,delete and display conditional case coded.
-* checkentries.html: Enbles admin to see all movies at a given time
+* checkentries.html: Enables admin to see all movies at a given time
 * input.js: Used to handel all dbms controllers and all server routes.
     - this file contains all the tasks along with appropriate commnets.
 * database.js 
